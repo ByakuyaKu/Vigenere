@@ -1,0 +1,11 @@
+D:\GERASKIN\Vigenere\Vigenere\bin\Debug\netcoreapp2.1\Vigenere.deps.json
+D:\GERASKIN\Vigenere\Vigenere\bin\Debug\netcoreapp2.1\Vigenere.runtimeconfig.json
+D:\GERASKIN\Vigenere\Vigenere\bin\Debug\netcoreapp2.1\Vigenere.runtimeconfig.dev.json
+D:\GERASKIN\Vigenere\Vigenere\bin\Debug\netcoreapp2.1\Vigenere.dll
+D:\GERASKIN\Vigenere\Vigenere\bin\Debug\netcoreapp2.1\Vigenere.pdb
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.csprojAssemblyReference.cache
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.csproj.CoreCompileInputs.cache
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.AssemblyInfoInputs.cache
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.AssemblyInfo.cs
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.dll
+D:\GERASKIN\Vigenere\Vigenere\obj\Debug\netcoreapp2.1\Vigenere.pdb
